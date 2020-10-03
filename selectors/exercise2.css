@@ -1,0 +1,30 @@
+body {
+         
+    background-color:  #f0f8ff;
+  }
+  div{
+      max-width: 75%;
+      min-width: 500px;
+      border: 1px solid #333333;
+      margin-top:  1em;
+      padding: 0.5em;
+      background-color: white;
+  }
+  #p2{
+      border: red; 
+      border-style: dashed;
+   color: red;
+    
+  }
+  #word1{
+    font-weight: bold;
+     margin-left: 0.5em;
+     margin-right:0.5em;
+      background-color: #fdca96 ;
+  }
+  #word2{
+    font-weight: bold;
+     margin-left: 0.5em;
+      margin-right:0.5em; 
+      background-color:#fdfd96 ;
+  }

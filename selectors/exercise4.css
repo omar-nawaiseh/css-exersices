@@ -1,1 +1,11 @@
-/* this is for you to complete */
+.a{
+    color: green; 
+  }
+ #b{color:purple;
+     background-color: yellow;
+    }
+ 
+  #c{font-weight: bold;}   
+  .d{color: red;}
+  .e{color: blue}
+  .h{color: blue;list-style-type: none;}
